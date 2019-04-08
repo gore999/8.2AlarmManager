@@ -2,4 +2,10 @@
     <string name="app_name">Stand Up!</string>
     <string name="alarm_off">Alarm off</string>
     <string name="alarm_on">Alarm on</string>
+    <string name="levantate">Deberias levantarte y dar un paseo</string>
+    <string name="stand_alert">Stand Up Alert</string>
+    <string name="notificationChannel_description">Notifica cada 15 minutos para levantarse y caminar</string>
+    <string name="stand_notif">Stand Up Notification</string>
+    <string name="alarma_toast">Stand Up Alarm On!</string>
+    <string name="alarma_toast_off">Stand Up Alarm Off</string>
 </resources>
